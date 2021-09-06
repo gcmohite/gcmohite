@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gcmohite
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend Web Development Projects
 - 📫 How to reach me gautam.mohite1005@gmail.com
 
 <!---
