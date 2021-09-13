@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gcmohite
+- 👋 Hi, I’m Gautam
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on Frontend Web Development Projects
