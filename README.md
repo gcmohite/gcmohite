@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gautam
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS and Javascript
+# 👋 Hi, I’m Gautam
+- 👀 I’m an aspiring Frontend Web Developer
+- 🌱 I’m currently learning HTML/CSS, Sass, Javascript and React.
 - 💞️ I’m looking to collaborate on Frontend Web Development Projects
 - 📫 How to reach me gautam.mohite1005@gmail.com
 
